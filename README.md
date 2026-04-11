@@ -37,10 +37,6 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArrickGit&theme=default)](https://git.io/streak-stats)
 
-[![ArrickGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrickGit&show_icons=true&include_all_commits=true)](https://github.com/ArrickGit)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrickGit&layout=compact)](https://github.com/ArrickGit)
-
 ## Connect
 
 - LinkedIn: [arrick-ang-7628991b2](https://www.linkedin.com/in/arrick-ang-7628991b2/)
