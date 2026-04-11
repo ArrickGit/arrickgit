@@ -1,13 +1,13 @@
 # Arrick Ang
 
-Computer Science freshman at the National University of Singapore (NUS) with a strong interest in building practical software and learning how technology can solve real-world problems.
+Computer Science student at the National University of Singapore (NUS) with a strong interest in building practical software and learning how technology can solve real-world problems.
 
 I enjoy turning ideas into projects, learning quickly in new environments, and improving through iteration.
 
 ## About Me
 
-- Student: NUS Computer Science (Year 1)
-- Interests: AI/ML, software engineering, web development, and applied automation
+- Student: NUS Computer Science (Year 2)
+- Interests: AI/ML, software engineering, web development, cybersecurity, and applied automation
 - Mindset: Fast learner, growth-focused, and open to challenging projects
 - Goal: Build strong engineering fundamentals while exploring impactful product ideas
 
@@ -26,7 +26,7 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
 
 ## Selected Projects
 
-- [Sneeze-Bless-Telegram-Bot](https://github.com/ArrickGit/Sneeze-Bless-Telegram-Bot): Telegram bot experiment focused on automation and messaging workflows.
+- [Sneeze-Bless-Telegram-Bot](https://github.com/ArrickGit/Sneeze-Bless-Telegram-Bot): Fun little telegram bot focused on automation and messaging workflows.
 - [Custom-Memory-Card-Game](https://github.com/ArrickGit/Custom-Memory-Card-Game): Interactive game project focused on logic and user interaction.
 - [TP_AIML_ProjectA](https://github.com/ArrickGit/TP_AIML_ProjectA): AI/ML coursework project.
 - [TP_AIML_ProjectB](https://github.com/ArrickGit/TP_AIML_ProjectB): AI/ML coursework project.
