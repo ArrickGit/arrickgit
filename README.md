@@ -18,41 +18,41 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Internship Timeline
-<table>
+<table width="100%" cellpadding="14">
   <tr>
-    <td width="180" valign="top">
+    <td width="230" valign="top">
       <strong>May 2025 - Aug 2025</strong><br>
       <img src="https://img.shields.io/badge/Latest-Featured%20Role-0A66C2?style=flat-square" alt="Latest featured role badge">
     </td>
     <td valign="top">
       <strong>CyberArmy</strong><br>
-      <sub>Full-Stack Developer Intern</sub><br>
+      <sub>Full-Stack Developer Intern</sub><br><br>
       <sub>Bandung, Indonesia</sub><br>
       <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0F766E?style=flat-square" alt="Full-stack development focus badge">
       <img src="https://img.shields.io/badge/Track-Product%20Engineering-2563EB?style=flat-square" alt="Product engineering track badge">
     </td>
   </tr>
   <tr>
-    <td width="180" valign="top">
+    <td width="230" valign="top">
       <strong>Jul 2022 - Jul 2024</strong><br>
       <img src="https://img.shields.io/badge/Experience-2%20Years-334155?style=flat-square" alt="Two years of experience badge">
     </td>
     <td valign="top">
       <strong>Singapore Armed Forces</strong><br>
-      <sub>Intelligence Research Assistant</sub><br>
+      <sub>Intelligence Research Assistant</sub><br><br>
       <sub>Singapore</sub><br>
       <img src="https://img.shields.io/badge/Focus-Research%20%26%20Analysis-7C3AED?style=flat-square" alt="Research and analysis focus badge">
       <img src="https://img.shields.io/badge/Domain-Intelligence-DC2626?style=flat-square" alt="Intelligence domain badge">
     </td>
   </tr>
   <tr>
-    <td width="180" valign="top">
+    <td width="230" valign="top">
       <strong>Sep 2021 - Feb 2022</strong><br>
       <img src="https://img.shields.io/badge/Foundation-Early%20Engineering-CA8A04?style=flat-square" alt="Early engineering foundation badge">
     </td>
     <td valign="top">
       <strong>Centre for Strategic Infocomm Technologies</strong><br>
-      <sub>Software Engineer Intern</sub><br>
+      <sub>Software Engineer Intern</sub><br><br>
       <sub>Singapore</sub><br>
       <img src="https://img.shields.io/badge/Focus-Software%20Engineering-059669?style=flat-square" alt="Software engineering focus badge">
       <img src="https://img.shields.io/badge/Track-R%26D%20Environment-9333EA?style=flat-square" alt="Research and development environment badge">
