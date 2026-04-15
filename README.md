@@ -26,8 +26,8 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
     </td>
     <td valign="top">
       <strong>CyberArmy</strong><br>
-      <sub>Full-Stack Developer Intern</sub><br><br>
-      <sub>Bandung, Indonesia</sub><br>
+      Full-Stack Developer Intern<br>
+      Bandung, Indonesia<br><br>
       <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0F766E?style=flat-square" alt="Full-stack development focus badge">
       <img src="https://img.shields.io/badge/Track-Product%20Engineering-2563EB?style=flat-square" alt="Product engineering track badge">
     </td>
@@ -39,8 +39,8 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
     </td>
     <td valign="top">
       <strong>Singapore Armed Forces</strong><br>
-      <sub>Intelligence Research Assistant</sub><br><br>
-      <sub>Singapore</sub><br>
+      Intelligence Research Assistant<br>
+      Singapore<br><br>
       <img src="https://img.shields.io/badge/Focus-Research%20%26%20Analysis-7C3AED?style=flat-square" alt="Research and analysis focus badge">
       <img src="https://img.shields.io/badge/Domain-Intelligence-DC2626?style=flat-square" alt="Intelligence domain badge">
     </td>
@@ -52,8 +52,8 @@ I enjoy turning ideas into projects, learning quickly in new environments, and i
     </td>
     <td valign="top">
       <strong>Centre for Strategic Infocomm Technologies</strong><br>
-      <sub>Software Engineer Intern</sub><br><br>
-      <sub>Singapore</sub><br>
+      Software Engineer Intern<br>
+      Singapore<br><br>
       <img src="https://img.shields.io/badge/Focus-Software%20Engineering-059669?style=flat-square" alt="Software engineering focus badge">
       <img src="https://img.shields.io/badge/Track-R%26D%20Environment-9333EA?style=flat-square" alt="Research and development environment badge">
     </td>
